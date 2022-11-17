@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100;0,9..144,200;0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;0,9..144,800;0,9..144,900;1,9..144,100;1,9..144,200;1,9..144,300;1,9..144,400;1,9..144,500;1,9..144,600;1,9..144,700;1,9..144,800;1,9..144,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+main{
+
+    border-radius: 40px;
+    font-family: 'Fraunces', serif;
+    color: white;
+    display:flex;
+    background-color: #f4edde;
+    width: 75%;
+    margin: 5% 12.5%;
+  
+}
+.div1 img{
+    width: 12vw;
+    position: relative;
+    top: 5vw;
+    left: 7vw;
+
+}
+.div2 img{
+    width: 30vw;
+    position: relative;
+    top: 0vw;
+    left: 22vw;
+} 
+.div1{
+    background-color: #6C786B;
+    border-radius: 30px 30px 0 0;
+}
+.div2{
+    background-color: #6C786B;
+    
+}
+.div3{
+    background-color: #6C786B;
+    text-align: center;
+    border-bottom: white solid 3px;
+}
+.div4{
+    background-color:  #f4edde;
+}
+.div5{
+    background-color:  #f4edde;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    border-radius: 0px 0px 30px 30px;
+   
+
+}
+.div5 img{
+    width: 8vw;
+    margin:0 10%;
+}
+h1{
+    font-size: 6vw;
+}
+h2{
+    font-size: 4vw;
+    margin:3%;
+
+}
+
+p{
+    color:#D2B88E;
+    text-align: center;
+    padding-top: 5%;
+    font-size: 4vw;
+    text-align: justify;
+    margin: 0 10%;
+    font-style: italic;
+    margin-top: 5%;
+}
+span{
+    color:#6C786B;
+    font-weight: bolder;
+    font-style: normal;
+}
